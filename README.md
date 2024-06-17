@@ -4,26 +4,17 @@
 
 ### Overview
 
-- 내용
+- 파이썬을 활용하여 크롤링, API 연동 등의 기능을 구현한 정보 자동화 프로젝트
 
 
-### 제출물
-
-- 9272개의 아파트 특징 및 거래 정보에 대하여, 거래금액 예측(CSV파일)
-
-
-## 3. Data descrption
+## 2. Data descrption
 
 ### Dataset overview
 
-- 활용 데이터
-  - 내용
+- `Selenium Library`와 사용자 input data를 통해 검색된 `구글 뉴스 기사 데이터`(제목, 말머리, 링크 등)
 
-### 내용
+- 수집된 정보를 `Slack API`를 통해 연결함으로써 원하는 정보를 간편하게 관리하고 아카이빙
 
-`내용`
-- 내용
-    - 내용
 
 ## 4. Result
 
@@ -33,3 +24,7 @@
 
 
 ![스크린샷 2024-05-31 010644](https://github.com/liatamot/News-crawling-bot/assets/138054658/4486cb1c-776f-40a9-b369-45a18553e6bb)
+
+
+
+[시행 영상 보기](https://drive.google.com/file/d/1TfMFVWGCdfgOZSplQqh_QQy6rWELGXlN/view?usp=drive_link)
